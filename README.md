@@ -1,5 +1,5 @@
-# Finance App for analyze spending.
-
+# Expense Management App
+- <intro>
 # Progression
 - [ ] Task 1
 - [ ] Task 2
